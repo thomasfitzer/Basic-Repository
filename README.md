@@ -1,1 +1,1 @@
-# Basic-Repository
+Describe the process of making the trivia game.
